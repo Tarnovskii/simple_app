@@ -1,0 +1,17 @@
+.wrapper {
+    min-height: 500px;
+    height: 700px;
+    display: flex;
+}
+
+.description {
+    width: 40%;
+    height: 100%;
+    background: red;
+}
+
+.scroll {
+    width: 60%;
+    height: 100%;
+    background: green;
+}
