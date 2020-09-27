@@ -1,7 +1,10 @@
-import React from 'react'
+import React, {Fragment} from 'react'
+import {Header} from "./Header";
 
 export const Main = () => {
     return (
-        <div> Im dump component </div>
+        <Fragment>
+            <Header/>
+        </Fragment>
     )
 }
