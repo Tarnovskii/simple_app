@@ -1,4 +1,10 @@
 .headerWrapper {
     height: 80px;
     background: rgba(0, 0, 0, 0.4);
+    position: sticky;
+    top: 0;
+    display: flex;
+    justify-content: space-around;
+    vertical-align: center;
+    align-items: center;
 }
